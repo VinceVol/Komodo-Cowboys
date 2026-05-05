@@ -1,0 +1,11 @@
+# FreeCAD temporary files
+*.FCStd1
+*.FCSbak
+*.FCBak
+
+*.ods
+*.png
+*.jpeg
+*.jpg
+
+
